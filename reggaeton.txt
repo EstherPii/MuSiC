@@ -1,2 +1,6 @@
-titulo;video.mp4;boton
-textolargo
+REGGAETON;video.mp4;Artistas Reggaeton
+El reggaeton, reguetón o reggae español, es un género musical bailable, derivado del reggae y el dancehall, que incluye también elementos principalmente del hip hop y la música hispana.
+Es una variante del reggae originario de Jamaica, con ritmos mezclados con el hip hop estadounidense, desarrollado en Panamá y Puerto Rico.\n\n
+Usa los mismos instrumentos y ritmos musicales que el reggae pero con diferentes letras y melodías.\n\n
+Esto se debió a que en Puerto Rico se usaban beats de reggae sobre bases de rap pero con letras y composiciones diferentes.\n\n
+Algunos de los artistas más representativos del reggaeton son Daddy Yankee (Gasolina), Don Omar (Dale Don Dale), Rakim Y Ken-Y (Tú no estás) o Pitbull (I Know You Want Me).
